@@ -1,16 +1,29 @@
 *{
-        outline: dotted 1px orangered;
+    outline: dotted 1px orangered;
 }
-#header1{
+
+.center {
+    width: 900px;
+    text-align: center;
+    margin:0 auto;
+}
+
+.delicious {
+    font-family: 'Marck Script', cursive;
+}
+
+#logotop {
     float: left;
 }
 
-main{
-    clear:both;
-}
-body{
-    text-align: center;
-}
 #logos {
     float: right;
+}
+
+#heropicture {
+    clear: both;
+}
+
+h1 {
+    font-size: 50px;
 }
