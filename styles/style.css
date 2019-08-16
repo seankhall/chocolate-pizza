@@ -1,0 +1,16 @@
+*{
+        outline: dotted 1px orangered;
+}
+#header1{
+    float: left;
+}
+
+main{
+    clear:both;
+}
+body{
+    text-align: center;
+}
+#logos {
+    float: right;
+}
